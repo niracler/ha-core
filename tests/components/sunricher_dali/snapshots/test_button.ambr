@@ -20,6 +20,10 @@
     'labels': set({
     }),
     'name': None,
+<<<<<<< HEAD
+=======
+    'object_id_base': None,
+>>>>>>> upstream/dev
     'options': dict({
     }),
     'original_device_class': <ButtonDeviceClass.IDENTIFY: 'identify'>,
@@ -69,6 +73,10 @@
     'labels': set({
     }),
     'name': None,
+<<<<<<< HEAD
+=======
+    'object_id_base': None,
+>>>>>>> upstream/dev
     'options': dict({
     }),
     'original_device_class': <ButtonDeviceClass.IDENTIFY: 'identify'>,
@@ -118,6 +126,10 @@
     'labels': set({
     }),
     'name': None,
+<<<<<<< HEAD
+=======
+    'object_id_base': None,
+>>>>>>> upstream/dev
     'options': dict({
     }),
     'original_device_class': <ButtonDeviceClass.IDENTIFY: 'identify'>,
@@ -167,6 +179,10 @@
     'labels': set({
     }),
     'name': None,
+<<<<<<< HEAD
+=======
+    'object_id_base': None,
+>>>>>>> upstream/dev
     'options': dict({
     }),
     'original_device_class': <ButtonDeviceClass.IDENTIFY: 'identify'>,
